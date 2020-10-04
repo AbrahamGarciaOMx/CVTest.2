@@ -42,7 +42,6 @@ li {
 
 a{
   color: #11999e;
-  font-family: 'Shadows Into Light', cursive;
   margin: 10px 20px;
   text-decoration: none;
 }
@@ -62,6 +61,7 @@ a:hover{
 .bottom-container {
   background-color: #66bfbf;
   padding:50px 0 20px;
+  font-family: 'Shadows Into Light', cursive;
 }
 
 .intro {
