@@ -150,6 +150,13 @@ a:hover{
   width: 80%;
   margin: 40px auto 60px;
 }
+
+.footer-link {
+  color: #11999e;
+  font-family: 'Shadows Into Light', cursive;
+  margin: 10px 20px;
+  text-decoration: none;
+
 .copyright{
   color: #eaf6f6;
   font-size: 0.75rem;
