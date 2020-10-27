@@ -125,6 +125,13 @@ a:hover{
   font-family: 'Libre Baskerville', serif;
 }
 
+.Certificate {
+  font-family: 'Libre Baskerville', serif;
+  text-decoration: none;
+  color: #40514e;
+  margin: 0px;
+}
+
 .courses {
   width: 100px;
   float: left;
